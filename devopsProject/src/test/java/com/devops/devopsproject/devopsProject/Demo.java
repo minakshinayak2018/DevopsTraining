@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 class Demo{    
 		 
-	    @SuppressWarnings("resource")
+	   
 		public static void main(String args[]) throws InterruptedException, IOException{
 	 
 	    	BufferedReader isr = new BufferedReader(new InputStreamReader(System.in));
