@@ -13,8 +13,6 @@
 		<selenium.version>3.0.1</selenium.version>
 		<testng.version>6.8</testng.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<testngXmlDir>src/main/resources/testng-files</testngXmlDir>
-		<testngXmlFile>testng.xml</testngXmlFile>
 
 	</properties>
 	<build>
@@ -44,7 +42,7 @@
 			<artifactId>testng</artifactId>
 			<version>${testng.version}</version>
 		</dependency>
-		<dependency>
+		<!-- <dependency>
 			<groupId>log4j</groupId>
 			<artifactId>log4j</artifactId>
 			<version>1.2.17</version>
@@ -59,7 +57,7 @@
 			<groupId>javax.mail</groupId>
 			<artifactId>mail</artifactId>
 			<version>1.4</version>
-		</dependency>
+		</dependency> -->
 	</dependencies>
 
 </project>
