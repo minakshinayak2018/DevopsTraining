@@ -1,6 +1,8 @@
 package com.devops.devopsproject.devopsProject;
 
+
 public class WithoutSplit {
+	
 
 	String s = "aaa,bb,g,s,ll";
 	String[] temp = new String[10];

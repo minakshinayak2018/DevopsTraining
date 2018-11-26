@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49" started-at="2018-11-26T13:32:59Z" finished-at="2018-11-26T13:32:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49" started-at="2018-11-26T13:32:59Z" finished-at="2018-11-26T13:32:59Z">
+      <class name="com.devops.devopsproject.devopsProject.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:com.devops.devopsproject.devopsProject.AppTest@57fffcd7]" name="shouldAnswerWithTrue" duration-ms="24" started-at="2018-11-26T19:02:59Z" finished-at="2018-11-26T19:02:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.devops.devopsproject.devopsProject.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
